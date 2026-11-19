@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jaeik Son
 - 👀 I’m interested in ML and LLM Engineering
-- 🌱 I’m currently working at Didim365
 
 
 <!---
